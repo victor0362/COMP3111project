@@ -195,3 +195,6 @@ You are recommended to download the [Eclipse Photon for Windows](http://www.ecli
 This version of eclipse supports Gradle out of the box.  Create a new `project` > `Gradle Project` and drag 
 everything from the given base code to the project. Refer to Lab 1 to bring up the `Gradle Tasks` windows and double
 click on the `application` > `run` to launch the application.
+
+
+for lab purpose ammendment
